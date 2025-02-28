@@ -2,7 +2,8 @@
 
 ## Objetivos
 
-Este projeto faz parte do Bootcamp Heineken e tem como proposta desenvolver um dashboard utilizando dados referentes ao contexto de assinaturas do Xbox.
+Este projeto faz parte do Bootcamp Heineken e tem como proposta desenvolver um dashboard utilizando dados referentes ao contexto de assinaturas do Xbox. Algumas perguntas foram criadas
+como exercício, para a criação do dashboard
 
 ## Perguntas
 
